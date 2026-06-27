@@ -12,7 +12,7 @@ A modern cybersecurity web application that analyzes password strength and helps
 
 ## 📸 Screenshot
 
-![PassXray Screenshot](assets/566e4984-f0f8-40e5-a853-e6297e3aaae1.png)
+![PassXray Screenshot](password/assets/566e4984-f0f8-40e5-a853-e6297e3aaae1.png)
 
 ---
 
