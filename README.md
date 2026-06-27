@@ -108,7 +108,7 @@ Passwords are not stored or transmitted—everything runs locally in your browse
 
 ## 👨‍💻 Author
 
-Your Name
+Sagar Danidhariya
 
 ---
 
