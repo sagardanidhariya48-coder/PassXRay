@@ -1,4 +1,4 @@
-# PassXRay# 🔐 PassXray - Password Security Analyzer
+# 🔐 PassXray - Password Security Analyzer
 
 A modern cybersecurity web application that analyzes password strength and helps users generate secure passwords in real time.
 
